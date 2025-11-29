@@ -1,0 +1,10 @@
+{
+  "name": "todo-ext",
+  "version": "0.1.0",
+  "mcpServers": {
+    "todo-ext": {
+       "httpUrl": "http://localhost:8000/mcp",
+        "trust": true
+    }
+  }
+}
