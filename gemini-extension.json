@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "mcpServers": {
     "todo-ext": {
-       "httpUrl": "http://localhost:8000/mcp",
+       "httpUrl": "https://mcp-gemini-ext-869337967308.us-central1.run.app/mcp",
         "trust": true
     }
   }
